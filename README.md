@@ -6,7 +6,7 @@ The dashboard enables leadership to track revenue sources, occupancy, booking be
 
 The project uses **realistic hotel booking data (May 2022 – July 2022)** and applies data cleaning, modeling, DAX measures, and interactive visualizations to support **data-driven business decisions**.
 
-
+![Revenue Insight](https://github.com/analystjoypaul/Revenue-Insight-hospitalityDomain/blob/main/revenue_insight.png)
 ##  Business Context
 **AtliQ Hotels** owns multiple hotel chains across various cities in India.  
 The **Managing Director** wanted to incorporate **Business Intelligence & Data Analytics** to:
