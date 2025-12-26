@@ -150,5 +150,5 @@ Data Analyst
 
 
 ## Useful Links
-- LinkedIn: https://www.linkedin.com/in/joy-paul-analytics/
+- LinkedIn: [https://www.linkedin.com/in/joy-paul-analytics/](https://www.linkedin.com/in/analyst-joy-paul/)
 
